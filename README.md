@@ -54,11 +54,6 @@ This project aims to develop an AI-based system for the detection of Tuberculosi
 
 4. Access the web application at http://localhost:5000
 
-## Screenshots
-
-![Main](static/img/main.jpeg)
-
-![Result](static/img/result.jpeg)
 
 ## Usage
 
@@ -76,14 +71,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-- Ravi Rajvanshi (AI Enthusiast, DevOps Engineer, Web Developer)
+- ismaila Abdullahi Adavize (AI Enthusiast, Data Engineer, Web Developer)
 
-## Contributors
-
-- Dr. Rajiv Garg (Professor at KGMU, Lucknow)
-- Akshaya Singh (DevOps Engineer)
-
-## Contact
 
 For questions or inquiries, please contact at its.ravi@outlook.com.
 ```
